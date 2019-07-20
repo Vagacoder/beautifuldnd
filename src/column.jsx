@@ -2,7 +2,7 @@ import React from 'react';
 import { timingSafeEqual } from 'crypto';
 import styled from 'styled-components';
 import Task from './task';
-import { Droppable } from 'react-beautifu-dnd';
+import { Droppable } from 'react-beautiful-dnd';
 
 const Container = styled.div`
     margin: 8px;
